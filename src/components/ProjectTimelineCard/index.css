@@ -1,0 +1,42 @@
+.project-img {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  color: #171f46;
+  flex-grow: 1;
+  font-size: 25px;
+}
+
+.duration-container {
+  color: #171f46;
+  display: flex;
+  align-items: center;
+}
+
+.duration-img {
+  font-size: 15px;
+}
+
+.duration {
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.description {
+  font-size: 18px;
+  color: #1e293b;
+}
+
+.visit-button {
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #0967d2;
+}

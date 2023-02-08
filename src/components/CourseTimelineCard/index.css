@@ -1,0 +1,40 @@
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  color: #171f46;
+  flex-grow: 1;
+  font-size: 25px;
+}
+
+.duration-container {
+  color: #171f46;
+  display: flex;
+  align-items: center;
+}
+
+.duration-img {
+  font-size: 15px;
+}
+
+.duration {
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.tags-container {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag {
+  color: #000000;
+  font-weight: 500;
+  background-color: #bfbfbf;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
